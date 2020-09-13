@@ -1,7 +1,9 @@
+/*
+ * Ryan Lyons
+ */
 package edu.jsu.mcis;
 
 public class TicTacToeMove {
-    
     private final int row;
     private final int col;
 
@@ -17,5 +19,4 @@ public class TicTacToeMove {
     public int getCol() {
         return col;
     }
-    
 }
