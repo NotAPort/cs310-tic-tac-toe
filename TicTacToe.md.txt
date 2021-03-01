@@ -1,0 +1,10 @@
+TicTacToe.md
+
+This project uses a GUI program to give the user the ability
+to play tic tac toe against a computer.
+The project was a class assignment that was used to reinforce
+our knowledge of classes and GUI programming.
+The program uses inputs from the user's mouse cursor to mark a board
+and compute whether or not the game is over or not.
+The program is split into 5 files, which are TicTacToe.java,
+TicTacToeController.java, TicTacToeModel.java, TicTacToeMove.java, TicTacToeView.java.
